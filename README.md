@@ -4,6 +4,7 @@
 **Table of Contents**
 1. [IAM Credentials](#IAM-Credentials)
 2. [AWS SDK for javascript](#AWS-SDK-for-javascript)
+3. [SageMaker](#SageMaker)
 
 
 # IAM Credentials
@@ -51,3 +52,7 @@ s3.listBuckets(function(err, data) {
   }
 });
 ```
+# SageMaker
+- Wtf is Object Artifacts?
+- Kena sambung git with notebook instance ke?
+- Definitely using BYO Algorithm.
