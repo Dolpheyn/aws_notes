@@ -87,7 +87,7 @@ https://docs.aws.amazon.com/sagemaker/index.html
 		3. S3 URL (output of the job which are  model artifacts.) rasanya boleh je store in the same
 		   bucket with training data.
 		4. Read options for training at https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html
-		5. Answer for no. 2 ^^^:
+		5. Answer for b.  ^^^:
 			1. "After you create the training job, Amazon SageMaker launches the ML compute instances
 			   and uses the training code and the training dataset to train the model.  It saves the
 			   resulting model artifacts and other output in the S3 bucket you specified for that
