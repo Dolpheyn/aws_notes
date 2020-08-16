@@ -74,7 +74,7 @@ https://docs.aws.amazon.com/sagemaker/index.html
   
 ## Steps For ML wih SageMaker
 ----
-[sagemaker architecture png](./imgs/sagemaker-architecture.png)
+![sagemaker architecture png](./imgs/sagemaker-architecture.png)
   
 1. Preprocess data:
 	1. Manual - SageMaker Notebook (**use this option first.**)
