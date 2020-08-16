@@ -97,6 +97,11 @@ https://docs.aws.amazon.com/sagemaker/index.html
 3. Model depolyment:
 	1. [Read](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-deployment.html)
 	2. [Example](https://docs.aws.amazon.com/sagemaker/latest/dg/ex1-deploy-model.html)
+4. Batch Transform:
+	1. What is batch transform?
+	- To **get inferences for an entire dataset**, use batch transform. With batch transform, you create
+	  a batch transform job using a trained model and the dataset, **which must be stored in Amazon**
+	  **S3.**
 
 
 
