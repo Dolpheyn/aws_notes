@@ -75,7 +75,7 @@ https://docs.aws.amazon.com/sagemaker/index.html
 ## Steps For ML wih SageMaker
 ----
 [sagemaker architecture png](./imgs/sagemaker-architecture.png.md)
-  \
+  
 1. Preprocess data:
 	1. Manual - SageMaker Notebook (**use this option first.**)
 	2. Automatic - SageMaker Processing:
@@ -84,7 +84,7 @@ https://docs.aws.amazon.com/sagemaker/index.html
 	1. Create a training job. It includes:
 		1. S3 URL (training data)
 		2. Compute Instances(?):
-		3. SR URL (output of the job which are  model artifacts.) rasanya boleh je store in the same
+		3. S3 URL (output of the job which are  model artifacts.) rasanya boleh je store in the same
 		   bucket with training data.
 		4. Read options for training at https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html
 		5. Answer for no. 2 ^^^:
